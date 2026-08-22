@@ -106,4 +106,4 @@ Book a call with me right now, and let me help you take your business to the nex
 
 ---
 
-[Website](https://https://www.hassandev.me) • [Twitter / X](https://x.com/intent/user?screen_name=nothassanaziz) • [LinkedIn](https://www.linkedin.com/in/hassan-aziz-web) • [GitHub](https://github.com/hassanaziz0012)
+[Website](https://www.hassandev.me) • [Twitter / X](https://x.com/intent/user?screen_name=nothassanaziz) • [LinkedIn](https://www.linkedin.com/in/hassan-aziz-web) • [GitHub](https://github.com/hassanaziz0012)
