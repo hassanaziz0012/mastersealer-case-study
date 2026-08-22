@@ -102,7 +102,7 @@ If you're looking for a developer who can help you achieve similar results, whet
 
 Book a call with me right now, and let me help you take your business to the next level.
 
-[**Book a free call**]((https://calendly.com/itshassanaziz/discuss-a-project))
+[**Book a free call**](https://calendly.com/itshassanaziz/discuss-a-project)
 
 ---
 
