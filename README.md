@@ -20,7 +20,7 @@ Here's a breakdown of exactly what I built for Master Sealer, and the business o
 
 Before I started, Johnny was spending hours manually writing quotations and making PDFs out of them, and then emailing them to prospects. Every single step in that chain can be done by a machine. 
 
-![flow chart showing the manual steps johnny had to do before i automated the entire workflow for him](https://https://www.hassandev.me/images/case-studies/mastersealer/manual-quotation-workflow.webp)
+![flow chart showing the manual steps johnny had to do before i automated the entire workflow for him](https://www.hassandev.me/images/case-studies/mastersealer/manual-quotation-workflow.webp)
 
 So I proposed an automated system to help with that.
 
@@ -34,7 +34,7 @@ I proposed to migrate emails to Google Workspace and take advantage of Google's 
 
 I checked the stats, and this one change *(along with fixing DNS records)* improved their mail deliverability by **50.61%**, and helped send quotations worth **$430,388.75** to customers just in the **last three months**. Imagine the revenue this business generates now just because I fixed their email deliverability issues.
 
-![CLI report showing mail deliverability improvement and revenue growth after implementing my changes](https://https://www.hassandev.me/images/case-studies/mastersealer/deliverability-and-revenue-improvements.webp)
+![CLI report showing mail deliverability improvement and revenue growth after implementing my changes](https://www.hassandev.me/images/case-studies/mastersealer/deliverability-and-revenue-improvements.webp)
 
 I redacted information like B2B clients and used estimated revenue numbers to protect client anonymity.
 
@@ -47,7 +47,7 @@ Mastersealer was previously hosting the internal quotation app on an AWS EC2 ins
 
 **Just the AWS hosting alone was costing Johnny $500/yr.**
 
-![aws transaction history showing $500/yr hosting costs](https://https://www.hassandev.me/images/case-studies/mastersealer/aws-billing-history.webp)
+![aws transaction history showing $500/yr hosting costs](https://www.hassandev.me/images/case-studies/mastersealer/aws-billing-history.webp)
 
 I proposed moving to a serverless solution like Vercel. 
 
@@ -65,7 +65,7 @@ The mastersealer.com domain had numerous DNS record issues. This was causing maj
 
 In Johnny's own words:
 
-![whatsapp chat screenshot showing johnny telling me how bad nexcess tech support is](https://https://www.hassandev.me/images/case-studies/mastersealer/nexcess-tech-support-discussion.webp)
+![whatsapp chat screenshot showing johnny telling me how bad nexcess tech support is](https://www.hassandev.me/images/case-studies/mastersealer/nexcess-tech-support-discussion.webp)
 
 > **Key Takeaway**
 > 
